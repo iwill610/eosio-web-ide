@@ -1,0 +1,17 @@
+pass
+PW5JrFQ2sEyZb7L7cr3jkP5aq1Q2SsC7vgLngVaqcYL8Z1VJqa7cf
+public key
+EOS7e1Ch6E1W6XToWHU6H8giDCZ1JJdVctVZwpogeksQM7nKhqJ4G
+private key 
+5JuvgqD8dCFnuQoGLqcD8xBtpxhM6mutfiZpF8JkSKKdK9sXZvY
+
+eosio development wallet
+public key
+EOS6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV
+private key
+5KQwrPbwdL6PhXujxW37FSSQZ1JiwsST4cqQzDeyXtP79zkvFD3
+
+test accounts
+tester1
+tester2
+hello (to deploy contract to)
